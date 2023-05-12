@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @NikYo1998
+- 👀 I’m interested in ... Computer Engineer positions in/near Michigan
+- 🌱 I’m currently learning ... SQL and more Python
+- 📫 How to reach me ... nikyoung1998@icloud.com
